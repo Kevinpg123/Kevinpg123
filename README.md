@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Pauluk</h1>
-<h3 align="center">Enthusiastic full stack developer hailing from Argentina, dedicated to crafting innovative solutions. With a keen eye for detail and a passion for clean code, I thrive in turning complex ideas into seamless user experiences. Let's build something extraordinary together!</h3>
+<h3 align="center">Enthusiastic full stack developer hailing from Argentina, dedicated to crafting innovative solutions. With a keen eye for detail and a passion for clean code. Let's build something extraordinary together!</h3>
 
 
 - 🔭 I've just graduated from Henry.
