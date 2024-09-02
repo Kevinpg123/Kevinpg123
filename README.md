@@ -6,7 +6,7 @@
 
 - 💼 My portfolio **https://portfoliokevin.vercel.app/**
 
-- 🔭 I've just graduated from Henry.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
